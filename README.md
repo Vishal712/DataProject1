@@ -1,6 +1,8 @@
 # DataProject1
 UCI Data Bootcamp Project
 
+NCAA to NBA Data, looking at how to examine collegiate level basketball and how player profile and performance ultimately translates to the NBA. 
+
 Vishal Patel,
 Steve Thorne,
 Stephen Chu,
